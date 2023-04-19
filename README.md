@@ -30,21 +30,12 @@ This dataset has 12960 instances and there are no missing values. It can be used
  UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.data 
  
 ### Result
-| Sample  | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
-| -----   | ------------- | ----------- | ------- | ------------ |
-| 1 | 0.62 | Linear | 6.43 | 2.84 |
-| 2 | 0.76 | Poly | 3.58 | 1.12 |
-| 3 | 0.68 | Sigmoid | 9.96 | 1.14 |
-| 4 | 0.69 | Sigmoid | 2.55 | 8.43 |
-| 5 | 0.69 | Linear | 6.45 | 2.81 |
-| 6 | 0.77 | Sigmoid | 3.39 | 2.81 |
-| 7 | 0.62 | Linear | 8.88 | 2.77 |
-| 8 | 0.72 | Linear | 5.11 | 5.34 |
-| 9 | 0.27 | Poly | 0.81 | 4.44 |
-| 10 | 0.77 | Poly | 8.53 | 0.52 |
+|![dataframe](https://user-images.githubusercontent.com/72308638/233195924-4b0f25f9-aa45-4778-b168-1dc85451a46b.png)
+
 
 
 # Convergence Graph 
 
-![image](https://user-images.githubusercontent.com/73159662/233172351-999dcb03-af26-4069-bf5c-3a8ed16893ee.png)
+<img width="705" alt="Screenshot 2023-04-20 at 2 16 41 AM" src="https://user-images.githubusercontent.com/72308638/233196356-ff4f089d-8902-4975-b5b8-96866ce9f191.png">
+
 
