@@ -15,14 +15,14 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 
 The attributes in the dataset are:
 
-Parents: the parents' occupation (categorical variable with 5 possible values)
-Has_nurs: the quality of the nursery school the child currently attends (categorical variable with 5 possible values)
-Form: the nursery school application form (categorical variable with 4 possible values)
-Children: the number of children the parents have (ordinal variable with 4 possible values)
-Housing: the type of housing the family lives in (categorical variable with 3 possible values)
-Finance: the financial status of the family (categorical variable with 3 possible values)
-Social: the social status of the family (categorical variable with 3 possible values)
-Health: the health status of the child (categorical variable with 3 possible values)
+1->Parents: the parents' occupation (categorical variable with 5 possible values)
+2->Has_nurs: the quality of the nursery school the child currently attends (categorical variable with 5 possible values)
+3->Form: the nursery school application form (categorical variable with 4 possible values)
+4->Children: the number of children the parents have (ordinal variable with 4 possible values)
+5->Housing: the type of housing the family lives in (categorical variable with 3 possible values)
+6->Finance: the financial status of the family (categorical variable with 3 possible values)
+7->Social: the social status of the family (categorical variable with 3 possible values)
+8->Health: the health status of the child (categorical variable with 3 possible values)
 The class label for each application specifies whether the application was accepted or rejected, and there are 5 possible values for this label.
 
 This dataset has 12960 instances and there are no missing values. It can be used for classification tasks in machine learning.
